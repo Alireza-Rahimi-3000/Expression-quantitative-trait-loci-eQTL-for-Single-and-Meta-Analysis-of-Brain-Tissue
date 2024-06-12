@@ -6,3 +6,4 @@ This code allows for eQTL analysis of single tissue or combining tissues into a 
   
  
    
+ 
