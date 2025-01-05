@@ -107,7 +107,7 @@ targetSNP<-("rs1920116
             rs6010620")
 targetSNP<-unlist(strsplit(targetSNP,"\n"))
 
-
+ 
 write.table(targetSNP,"targetSNPs.txt",row.names=F,quote=F,col.names=F)
 
 ###Run in plink
