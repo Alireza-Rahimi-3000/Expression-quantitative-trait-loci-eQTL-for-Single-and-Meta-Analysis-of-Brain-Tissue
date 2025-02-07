@@ -4,7 +4,7 @@ An eQTL is a locus that explains a fraction of the genetic variance of a gene ex
       
 This code allows for eQTL analysis of single tissue or combining tissues into a meta-analysis.                        
    
-       
+        
             
       
   
